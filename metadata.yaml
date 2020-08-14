@@ -1,0 +1,37 @@
+_repo: The-Young-Wireless-OperatorWith-the-U-S-Secret-Service-Winning-his-way-in-the-Secret-Service_62885
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, Frank Thayer
+    - Merrill, F. T.
+    birthdate: 1848
+    deathdate: 1923
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+creator:
+  author:
+    agent_name: Theiss, Lewis E. (Lewis Edwin)
+    birthdate: 1878
+    deathdate: 1963
+    gutenberg_agent_id: '4662'
+    url: http://www.gutenberg.org/2009/agents/4662
+description: ''
+gutenberg_issued: '2020-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62885'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Radio -- Juvenile fiction'
+- !lcsh 'Secret service -- United States -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'The Young Wireless Operator—With the U. S. Secret Service
+
+  Winning his way in the Secret Service'
+url: http://www.gutenberg.org/ebooks/62885
