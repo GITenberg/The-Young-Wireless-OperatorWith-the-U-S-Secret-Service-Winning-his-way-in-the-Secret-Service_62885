@@ -1,5 +1,5 @@
 _repo: The-Young-Wireless-OperatorWith-the-U-S-Secret-Service-Winning-his-way-in-the-Secret-Service_62885
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Merrill, Frank T.
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1923
     gutenberg_agent_id: '6202'
     url: http://www.gutenberg.org/2009/agents/6202
+covers:
+- cover_type: archival
+  image_path: 62885-h/images/cover.jpg
 creator:
   author:
     agent_name: Theiss, Lewis E. (Lewis Edwin)
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '4662'
     url: http://www.gutenberg.org/2009/agents/4662
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62885#The-Young-Wireless-OperatorWith-the-U-S-Secret-Service-Winning-his-way-in-the-Secret-Service
 gutenberg_issued: '2020-08-08'
 gutenberg_type: Text
 identifiers:
